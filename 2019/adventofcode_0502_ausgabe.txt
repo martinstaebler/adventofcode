@@ -1,0 +1,343 @@
+(base) martinstabler advent_of_code $ /anaconda3/bin/python /Users/martinstabler/advent_of_code/adventofcode_0501_a.py
+arrayindex 0 -> Inhalt: 3 -> opcode: 3
+1 or 5?: 5
+opcode 3 skip 2
+ 
+arrayindex 2 -> Inhalt: 1 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 6 -> Inhalt: 1105 -> opcode: 5
+5 --->  param[1] 7 param[2] 8 ptr 238
+opcode 5 skip 3
+ 
+arrayindex 238 -> Inhalt: 1105 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 241 -> Inhalt: 1105 -> opcode: 5
+5 --->  param[1] 242 param[2] 243 ptr 247
+opcode 5 skip 3
+ 
+arrayindex 247 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 250 -> Inhalt: 1005 -> opcode: 5
+5 --->  param[1] 0 param[2] 252 ptr 256
+opcode 5 skip 3
+ 
+arrayindex 256 -> Inhalt: 1106 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 259 -> Inhalt: 1106 -> opcode: 6
+5 --->  param[1] 260 param[2] 261 ptr 265
+opcode 6 skip 3
+ 
+arrayindex 265 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 268 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 227 param[2] 270 ptr 274
+opcode 6 skip 3
+ 
+arrayindex 274 -> Inhalt: 1105 -> opcode: 5
+5 --->  param[1] 275 param[2] 276 ptr 280
+opcode 5 skip 3
+ 
+arrayindex 280 -> Inhalt: 1 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 284 -> Inhalt: 1101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 288 -> Inhalt: 105 -> opcode: 5
+5 --->  param[1] 289 param[2] 0 ptr 294
+opcode 5 skip 3
+ 
+arrayindex 294 -> Inhalt: 1106 -> opcode: 6
+5 --->  param[1] 295 param[2] 296 ptr 300
+opcode 6 skip 3
+ 
+arrayindex 300 -> Inhalt: 1 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 304 -> Inhalt: 1101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 308 -> Inhalt: 106 -> opcode: 6
+5 --->  param[1] 309 param[2] 0 ptr 314
+opcode 6 skip 3
+ 
+arrayindex 314 -> Inhalt: 1007 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 318 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 322 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 324 ptr 329
+opcode 6 skip 3
+ 
+arrayindex 329 -> Inhalt: 1108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 333 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 337 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 340 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 344 -> Inhalt: 1007 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 348 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 352 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 355 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 359 -> Inhalt: 1108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 363 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 367 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 370 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 374 -> Inhalt: 7 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 378 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 382 -> Inhalt: 1005 -> opcode: 5
+5 --->  param[1] 224 param[2] 384 ptr 389
+opcode 5 skip 3
+ 
+arrayindex 389 -> Inhalt: 1008 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 393 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 397 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 400 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 404 -> Inhalt: 108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 408 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 412 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 414 ptr 419
+opcode 6 skip 3
+ 
+arrayindex 419 -> Inhalt: 1008 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 423 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 427 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 430 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 434 -> Inhalt: 1107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 438 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 442 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 445 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 449 -> Inhalt: 1008 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 453 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 457 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 460 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 464 -> Inhalt: 8 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 468 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 472 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 475 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 479 -> Inhalt: 107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 483 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 487 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 490 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 494 -> Inhalt: 7 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 498 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 502 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 505 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 509 -> Inhalt: 107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 513 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 517 -> Inhalt: 1005 -> opcode: 5
+5 --->  param[1] 224 param[2] 519 ptr 524
+opcode 5 skip 3
+ 
+arrayindex 524 -> Inhalt: 107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 528 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 532 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 534 ptr 539
+opcode 6 skip 3
+ 
+arrayindex 539 -> Inhalt: 8 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 543 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 547 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 549 ptr 554
+opcode 6 skip 3
+ 
+arrayindex 554 -> Inhalt: 1107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 558 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 562 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 565 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 569 -> Inhalt: 108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 573 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 577 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 580 -> Inhalt: 101 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 584 -> Inhalt: 7 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 588 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 592 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 595 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 599 -> Inhalt: 8 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 603 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 607 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 609 ptr 614
+opcode 6 skip 3
+ 
+arrayindex 614 -> Inhalt: 108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 618 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 622 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 624 ptr 629
+opcode 6 skip 3
+ 
+arrayindex 629 -> Inhalt: 1007 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 633 -> Inhalt: 1002 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 637 -> Inhalt: 1006 -> opcode: 6
+5 --->  param[1] 224 param[2] 639 ptr 644
+opcode 6 skip 3
+ 
+arrayindex 644 -> Inhalt: 1108 -> opcode: 8
+opcode 8 skip 4
+ 
+arrayindex 648 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 652 -> Inhalt: 1005 -> opcode: 5
+opcode 5 skip 3
+ 
+arrayindex 655 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 659 -> Inhalt: 1107 -> opcode: 7
+opcode 7 skip 4
+ 
+arrayindex 663 -> Inhalt: 102 -> opcode: 2
+opcode 2 skip 4
+ 
+arrayindex 667 -> Inhalt: 1006 -> opcode: 6
+opcode 6 skip 3
+ 
+arrayindex 670 -> Inhalt: 1001 -> opcode: 1
+opcode 1 skip 4
+ 
+arrayindex 674 -> Inhalt: 4 -> opcode: 4
+4: 7731427
+opcode 4 skip 2
+ 
+(base) martinstabler advent_of_code $ 
